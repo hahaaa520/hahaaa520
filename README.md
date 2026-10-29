@@ -17,7 +17,7 @@
 ### 更多探索
 
 - **[梦伴 AI](https://github.com/hahaaa520/mengban-ai)**：基于启元 Q1 的儿童睡前陪伴 Skill，让故事、语音、灯光与预置动作组成会逐步退场的陪伴流程。
-- **[MuJoCo 医疗机器人仿真](https://github.com/hahaaa520/-)**：可交互医疗机械臂场景，包含传感器、域随机化和 Gymnasium 强化学习接口。
+- **[MuJoCo 医疗机器人仿真](https://github.com/hahaaa520/mujoco-medical-robot)**：可交互医疗机械臂场景，包含传感器、域随机化和 Gymnasium 强化学习接口。
 - **[HXY-0124](https://github.com/hahaaa520/hxy-0124)**：我的互动个人网站，用宇宙观察站记录技术、公益与舞台成长。
 
 ## 关注方向
